@@ -1,0 +1,13 @@
+Module 1
+1. Functional units
+2. Addressing modes
+3. Instruction types
+4. Control sequence of MUL (R2),R1
+5. Single bus Organization
+
+Module 2
+1. Inter register transfer
+2. Design of ALU unit
+3. Design of accumulator
+4. Design of Shifter
+5. Design of Status register
