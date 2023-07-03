@@ -1,0 +1,31 @@
+3 marks
+1. sempahore
+2. Sync
+3. Sync
+4. Deadlock
+5 memory management
+
+14 or 14 sync - synchronization, dining, reader
+
+14 or 14 deadlock - bankers, 
+
+7 or 7 memory allocation prob
+
+ipc
+peterson
+
+
+
+
+Internal exam portions
+
+Inter-process communication - shared memory systems,
+Message passing systems.
+
+Process synchronization- Race conditions – Critical section problem – Peterson’s solution,
+Synchronization hardware, Mutex Locks, Semaphores, Monitors – Synchronization problems -
+Producer Consumer, Dining Philosophers and Readers-Writers.
+Deadlocks: Necessary conditions, Resource allocation graphs, Deadlock prevention, Deadlock
+avoidance – Banker’s algorithms, Deadlock detection, Recovery from deadlock.
+Memory Management: Concept of address spaces, Swapping, Contiguous memory allocation, 
+fixed and variable partitions

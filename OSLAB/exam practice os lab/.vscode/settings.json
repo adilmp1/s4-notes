@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "dirent.h": "c",
+        "ipc.h": "c",
+        "shm.h": "c",
+        "random": "c",
+        "wait.h": "c"
+    }
+}
