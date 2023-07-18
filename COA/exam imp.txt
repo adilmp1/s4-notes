@@ -1,0 +1,43 @@
+Module 1
+
+1 Addresing modes.
+2 One,two, three address instructions.
+3. Instruction and instruction sequencing
+4. Instruction cycle
+5. Execution of complete instruction
+6. Single and multiple bus organization
+7.Big and little endian
+8.straight line and branching
+
+Module 2
+1.Microoperation Classification
+2.Processor Logic design
+3.Scratchpad and 2port
+4.Alu
+5.Design of arithmetic circuit
+6.Status register
+7.Shift register
+8.Accumulator
+9.Complete accumulator
+
+Mod 3
+1.Sequential Multiplication
+2.Signed(Bhooth algo)
+3.Array multiplier
+4.unsigned (restoring division)
+5.Pipeling-classification(6ennam),conflicts,hazards(3 ennam)(data hazrd inte under il war raw waw),hazard resolution
+
+Mod 4
+1.Control organization (pla okke)
+2.Hardware 
+3.Microcontroller 
+4.Sequemcer
+5.Horizontal and vertical microinstruction
+
+Module 5
+1.Cache nd it's mapping functions
+2. DRAM nd it's types nd it's working 
+4. Bus arbitration	
+2. ROM nd it's types
+5.DMA
+6.I/O Mapping
